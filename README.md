@@ -1,7 +1,5 @@
 ﻿# Ideal Chain Polymer
 
-*Backgroud: Physics*
-
 **Problem Statement:** To find $\theta$ solvent of a coarse-grained polymer under various conditions both internal, external.
 
 **Tools used:** Python, LAMMPS, MATLAB, Git
