@@ -1,4 +1,4 @@
-﻿# Ideal Chain Polymer
+﻿# Theta Solvent of Polymer using LAMMPS and Python
 
 **Problem Statement:** To find $\theta$ solvent of a coarse-grained polymer under various conditions both internal, external.
 
